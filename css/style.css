@@ -620,7 +620,7 @@ header .circle {
 }
 
 .grid-item {
-  width: 33.33%;
+  width:33.33%;
   padding: 1rem 1.2rem;
   display: flex;
   justify-content: center;
@@ -668,6 +668,8 @@ header .circle {
   position: relative;
   margin: auto 0;
 }
+
+
 
 .plus:before,
 .plus:after {
